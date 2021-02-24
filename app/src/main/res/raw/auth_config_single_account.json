@@ -1,0 +1,16 @@
+{
+  "client_id" : "d781594a-bf98-496c-8fc9-247cd77aad5c",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.center.rococo/S5%2Bmhr2EescOBkMpZnVHlLTb60A%3D",
+  "broker_redirect_uri_registered" : true,
+  "account_mode" : "SINGLE",
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount",
+        "tenant_id": "common"
+      }
+    }
+  ]
+}
